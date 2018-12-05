@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Conexion.Clases
 {
-    class Producto
+    public class Producto
     {
-        
         public string id_producto { get; set; }
         public string nombre_producto { get; set; }
         public string unidad { get; set; }
@@ -22,6 +21,8 @@ namespace Conexion.Clases
             this.id_producto = id_producto;
         }
 
+
+        //regresa un bool para asegurarse de que se este ejecutando de manera correcta el metodo
         public bool agregarProducto()
         {
             string query = "INSERT INTO producto(id_producto, Nombre, Unidad, Cantidad, Precio_compra, Precio_venta, Departamento) values('"
@@ -31,16 +32,24 @@ namespace Conexion.Clases
             return Conection.sharedInstance.ejecutarQuery(query);
         }
 
+
+        //regresa un bool para asegurarse de que se este ejecutando de manera correcta el metodo
         public bool eliminarProducto()
         {
-            string query = ""; //Aqui se debe escribir el query para eliminar el producto, 
+            string query = "DELETE FROM "; //Aqui se debe escribir el query para eliminar el producto, 
                                //hoy no alcancé por tiempo, mañana u hoy en la tarde lo hago XD
             return Conection.sharedInstance.ejecutarQuery(query);
         }
 
-        public void modificarProducto()
-        {
 
+        //regresa un bool para asegurarse de que se este ejecutando de manera correcta el metodo 
+        public bool modificarProducto()
+        {
+            string query = ""; //Metodo de actualización en query del producto
+            return Conection.sharedInstance.ejecutarQuery(query);
         }
+
+
+
     }
 }

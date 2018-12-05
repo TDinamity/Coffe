@@ -1,0 +1,12 @@
+C:\Users\ELEKTRA6092\Documents\UPPE\4to CUATRIMESTRE\Ing de Software asistida por Computadoras\Conexion\Conexion\bin\Debug\Conexion.exe.config
+C:\Users\ELEKTRA6092\Documents\UPPE\4to CUATRIMESTRE\Ing de Software asistida por Computadoras\Conexion\Conexion\bin\Debug\Conexion.exe
+C:\Users\ELEKTRA6092\Documents\UPPE\4to CUATRIMESTRE\Ing de Software asistida por Computadoras\Conexion\Conexion\bin\Debug\Conexion.pdb
+C:\Users\ELEKTRA6092\Documents\UPPE\4to CUATRIMESTRE\Ing de Software asistida por Computadoras\Conexion\Conexion\obj\Debug\Conexion.csprojResolveAssemblyReference.cache
+C:\Users\ELEKTRA6092\Documents\UPPE\4to CUATRIMESTRE\Ing de Software asistida por Computadoras\Conexion\Conexion\obj\Debug\Conexion.Form1.resources
+C:\Users\ELEKTRA6092\Documents\UPPE\4to CUATRIMESTRE\Ing de Software asistida por Computadoras\Conexion\Conexion\obj\Debug\Conexion.Properties.Resources.resources
+C:\Users\ELEKTRA6092\Documents\UPPE\4to CUATRIMESTRE\Ing de Software asistida por Computadoras\Conexion\Conexion\obj\Debug\Conexion.csproj.GenerateResource.Cache
+C:\Users\ELEKTRA6092\Documents\UPPE\4to CUATRIMESTRE\Ing de Software asistida por Computadoras\Conexion\Conexion\obj\Debug\Conexion.exe
+C:\Users\ELEKTRA6092\Documents\UPPE\4to CUATRIMESTRE\Ing de Software asistida por Computadoras\Conexion\Conexion\obj\Debug\Conexion.pdb
+C:\Users\ELEKTRA6092\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\bin\Debug\Conexion.exe.config
+C:\Users\ELEKTRA6092\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.exe
+C:\Users\ELEKTRA6092\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.pdb

@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\Conection.cs" />
+    <Compile Include="Clases\ControlCompraVenta.cs" />
+    <Compile Include="Clases\Inventario.cs" />
     <Compile Include="Clases\Producto.cs" />
     <Compile Include="Formularios\Form1.cs">
       <SubType>Form</SubType>

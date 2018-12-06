@@ -8,13 +8,11 @@ namespace Conexion.Clases
 {
     class Inventario
     {
-        public int cantidad { get; set; }
-        public string id_producto { get; set; }
         public List<Producto> productos { get; set; }
 
         public Inventario()
         {
-
+            
         }
 
         public void actualizarInventario()
@@ -26,19 +24,16 @@ namespace Conexion.Clases
         {
 
         }
-
-        public void obtenerFaltantes(string inventario)
-        {
-
-        }
-
+        
         public void obtenerInventario()
         {
 
         }
-        public void obtenerProductos(string id_producto)
+
+        public void obtenerProducto(string id_producto)
         {
 
         }
+
     }
 }

@@ -49,7 +49,7 @@ CREATE TABLE `Inventario`
 CREATE TABLE `Producto`
 (
 	`id_producto` VARCHAR(20) NOT NULL,
-	`Nombre` VARCHAR(20) NULL,
+	`Nombre` VARCHAR(50) NULL,
 	`Cantidad` INT NULL,
 	`Precio_compra` INT NULL,
 	`Precio_venta` INT NULL,

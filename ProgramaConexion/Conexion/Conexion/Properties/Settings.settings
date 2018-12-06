@@ -1,7 +1,9 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Conexion.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="configConection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=localhost;user id=root;password=qwerty1234567ZXCVNM;persistsecurityinfo=True;port=3306;database=Cafeteria;SslMode=none</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>

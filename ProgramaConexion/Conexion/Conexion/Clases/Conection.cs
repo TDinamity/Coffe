@@ -25,13 +25,9 @@ namespace Conexion.Clases
         {
             try
             {
-                /* 
-                  ANDREA, no se cual es la manera que dijiste que harias la conexión pero dejo lo que
-                  hacia falta en cuanto los metodos que se necesitan, solo falta que implementes de
-                  la forma en la que dijiste
-                */
+               
                 con = new MySqlConnection();
-                //con.ConnectionString = Properties.Settings.Default.cadena_conexion;
+                con.ConnectionString = Properties.Settings.Default.cadena_conexion;
                 con.Open();
                 return true;
             }

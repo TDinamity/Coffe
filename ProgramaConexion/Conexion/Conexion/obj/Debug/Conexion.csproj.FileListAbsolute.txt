@@ -10,3 +10,13 @@ C:\Users\ELEKTRA6092\Documents\UPPE\4to CUATRIMESTRE\Ing de Software asistida po
 C:\Users\ELEKTRA6092\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\bin\Debug\Conexion.exe.config
 C:\Users\ELEKTRA6092\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.exe
 C:\Users\ELEKTRA6092\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.pdb
+C:\Users\ramir\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.csprojAssemblyReference.cache
+C:\Users\ramir\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.Formularios.frm_consultar.resources
+C:\Users\ramir\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.Formularios.frm_inicio_sesion.resources
+C:\Users\ramir\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.Formularios.frm_registrar_compras.resources
+C:\Users\ramir\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.Formularios.frm_ventas.resources
+C:\Users\ramir\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.Properties.Resources.resources
+C:\Users\ramir\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.csproj.GenerateResource.cache
+C:\Users\ramir\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.exe
+C:\Users\ramir\Documents\GitHub\Coffe\ProgramaConexion\Conexion\Conexion\obj\Debug\Conexion.pdb

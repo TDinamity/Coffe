@@ -49,25 +49,43 @@
     <Compile Include="Clases\ControlCompraVenta.cs" />
     <Compile Include="Clases\Inventario.cs" />
     <Compile Include="Clases\Producto.cs" />
-    <Compile Include="Formularios\Form1.cs">
+    <Compile Include="Clases\Program.cs" />
+    <Compile Include="Formularios\frm_consultar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Formularios\frm_consultar.Designer.cs">
+      <DependentUpon>frm_consultar.cs</DependentUpon>
     </Compile>
-    <Compile Include="Clases\Program.cs" />
+    <Compile Include="Formularios\frm_inicio_sesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm_inicio_sesion.Designer.cs">
+      <DependentUpon>frm_inicio_sesion.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\frm_registrar_compras.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formularios\frm_registrar_compras.Designer.cs">
       <DependentUpon>frm_registrar_compras.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\frm_ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm_ventas.Designer.cs">
+      <DependentUpon>frm_ventas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Formularios\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Formularios\frm_consultar.resx">
+      <DependentUpon>frm_consultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frm_inicio_sesion.resx">
+      <DependentUpon>frm_inicio_sesion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frm_registrar_compras.resx">
       <DependentUpon>frm_registrar_compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frm_ventas.resx">
+      <DependentUpon>frm_ventas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
